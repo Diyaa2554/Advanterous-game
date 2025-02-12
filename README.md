@@ -1,4 +1,4 @@
-## Adventure Game
+# Adventure Game
 
 ## 📝 Brief Explanation
  Adventure Game is a text-based RPG built with HTML, CSS, and JavaScript, where players explore different locations, battle monsters, earn gold, and upgrade weapons. The game offers multiple choices, such as visiting a store to buy weapons, entering a cave to fight monsters, or facing the ultimate boss—a dragon! With a dynamic combat system, inventory management, and a hidden Easter Egg mini-game, this project provides an engaging and interactive experience.
