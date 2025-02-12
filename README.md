@@ -34,5 +34,5 @@ Adventure Game
 ## 🏆 Credits
 Developed by Diya.
 
-Happy adventuring! 🎉
+
 
